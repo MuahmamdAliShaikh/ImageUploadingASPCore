@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ImageUploadingASPCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImageUploadingASPCore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\06cb9447-5c08-4fc9-9c4d-0b0f9db54410_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\06cb9447-5c08-4fc9-9c4d-0b0f9db54410_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\0f665dc0-ec1b-4663-b59f-aa5329e8d126_watch.jpg",
+      "PackagePath": "staticwebassets\\images\\0f665dc0-ec1b-4663-b59f-aa5329e8d126_watch.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\1a5aa7aa-49c0-4c87-9a47-95567415fc40_airbud.png",
+      "PackagePath": "staticwebassets\\images\\1a5aa7aa-49c0-4c87-9a47-95567415fc40_airbud.png"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\2ab5af9b-9407-4572-9d8f-29704060cd2b_Sheikh.jpg",
+      "PackagePath": "staticwebassets\\images\\2ab5af9b-9407-4572-9d8f-29704060cd2b_Sheikh.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\3c415d74-97f1-4c2d-a458-0be9651edcef_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\3c415d74-97f1-4c2d-a458-0be9651edcef_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\4d8b1bb3-54b8-47cf-adaf-f8506780419b_J1.png",
+      "PackagePath": "staticwebassets\\images\\4d8b1bb3-54b8-47cf-adaf-f8506780419b_J1.png"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\5b414cb4-0792-48ec-bc34-45c0a4b3f3c1_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\5b414cb4-0792-48ec-bc34-45c0a4b3f3c1_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\6b23b87b-bbe4-4e84-831f-aad2c523831a_Aquaman.jpg",
+      "PackagePath": "staticwebassets\\images\\6b23b87b-bbe4-4e84-831f-aad2c523831a_Aquaman.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\7357af00-e391-4c13-871f-3a8db1025955_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\7357af00-e391-4c13-871f-3a8db1025955_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\7879ad63-25cf-482d-8b34-fc4fdcf53f68_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\7879ad63-25cf-482d-8b34-fc4fdcf53f68_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\789b2b8e-65ee-4b27-a90f-608e24fb7c8e_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\789b2b8e-65ee-4b27-a90f-608e24fb7c8e_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\845f3c8d-995b-4cfb-ac82-46f1a34e572f_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\845f3c8d-995b-4cfb-ac82-46f1a34e572f_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\8e701ffe-35c7-4a7f-a235-e85add5061e5_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\8e701ffe-35c7-4a7f-a235-e85add5061e5_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\8f8b31e1-513c-4dc4-84db-441b9f90165c_airbud.png",
+      "PackagePath": "staticwebassets\\images\\8f8b31e1-513c-4dc4-84db-441b9f90165c_airbud.png"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\9fb1d1b3-a570-4e7e-996a-89299a131d61_shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\9fb1d1b3-a570-4e7e-996a-89299a131d61_shoe.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\ab220ede-2879-4562-9ed6-4a496d4879e7_airbud.png",
+      "PackagePath": "staticwebassets\\images\\ab220ede-2879-4562-9ed6-4a496d4879e7_airbud.png"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\bc182820-ac6d-4837-b681-c2f049cb9534_watch.jpg",
+      "PackagePath": "staticwebassets\\images\\bc182820-ac6d-4837-b681-c2f049cb9534_watch.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\e9e492df-23ba-4c05-bd23-16c4fbb87b87_watch.jpg",
+      "PackagePath": "staticwebassets\\images\\e9e492df-23ba-4c05-bd23-16c4fbb87b87_watch.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\images\\fba046c9-3209-45dc-aecf-3346350e80a6_Mesi.jpg",
+      "PackagePath": "staticwebassets\\images\\fba046c9-3209-45dc-aecf-3346350e80a6_Mesi.jpg"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Document\\ASP .NET CORE 6\\repos\\ImageUploadingASPCore\\ImageUploadingASPCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ImageUploadingASPCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ImageUploadingASPCore.props",
+      "PackagePath": "build\\ImageUploadingASPCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageUploadingASPCore.props",
+      "PackagePath": "buildMultiTargeting\\ImageUploadingASPCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ImageUploadingASPCore.props",
+      "PackagePath": "buildTransitive\\ImageUploadingASPCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
